@@ -1,2 +1,2 @@
-##Aprendendo a utilizar o Github.
+#Aprendendo a utilizar o Github.
 # Bootcamp Dio
